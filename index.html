@@ -7,7 +7,7 @@ Created on : July 26, 2021
 Last modified by : Rishav Das (https://github.com/rdofficial/)
 Last modified on : July 29. 2021
 
-Changes made in the last modifications :
+Changes made in the last modification :
 1. Added the frontend elements for the web page + used the Bootstrap for relying on the frontend designing part.
 -->
 
@@ -44,7 +44,7 @@ Changes made in the last modifications :
 				<textarea type="text" class="form-control" name="request-data" placeholder="Enter the data for the request in JSON format" style="resize: none; height: 150px;"></textarea>
 			</div>
 		</form>
-		<select class="form-select">
+		<select class="form-select" name="request-type">
 			<option value="get">GET Request</option>
 			<option value="post">POST Request</option>
 		</select>
@@ -55,7 +55,7 @@ Changes made in the last modifications :
 	<!-- The textarea element which will display the response of the HTTP request -->
 	<div class="container my-3">
 		<label class="form-label">Response of the HTTP request : </label>
-		<textarea class="form-select" placeholder="Response of the HTTP request" style="resize: none; height: 250px;" disabled readonly></textarea>
+		<textarea class="form-select" name="output" placeholder="Response of the HTTP request" style="resize: none; height: 250px;" disabled readonly></textarea>
 	</div>
 </body>
 
