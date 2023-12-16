@@ -8,4 +8,4 @@ The tool doesn't required any installable dependencies, or else. Just make sure 
 
 ### About the author
 
-This project is created by [Rishav Das](https://github.com/rdofficial/) on July 23, 2021. To the contributers, if you want to contribute to this project's source code and make it better in the terms of functionality and user experience, then you are free to do so. Just create a pull request or mail me the updates at _rdofficial192@gmail.com_.
+This tool is created by [Rishav Das](https://github.com/r1shavd/) on July 23, 2021. To the contributers, if you want to contribute to this project's source code and make it better in the terms of functionality and user experience, then you are free to do so. Just create a pull request or mail me the updates at _rdofficial192@gmail.com_.
